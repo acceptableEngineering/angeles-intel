@@ -4,7 +4,7 @@ Angeles Intel. (short for intelligence) is a new mobile app featuring a live inc
 
 > [!NOTE]
 >
-> This app is currently in open beta, and iOS only. We hope Apple will approve version 1.0 (build 8) soon. Meanwhile, you can access it via TestFlight here: https://testflight.apple.com/join/K69Bmny6
+> This app is currently in open beta, and iOS only. We hope Apple will approve version 1.0 (build 9) soon. Meanwhile, you can access it via TestFlight here: https://testflight.apple.com/join/K69Bmny6
 
 
 
