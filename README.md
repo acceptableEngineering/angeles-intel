@@ -12,6 +12,13 @@ Angeles Intel. (short for intelligence) is a new mobile app featuring a live inc
 
 ### **Roadmap (Upcoming Features)**
 
+**Medium Feature: RAWS Data**
+- *Description*: Integration of RAWS data into incidents of type Wildfire
+- *Purpose*: As usual, situational awareness
+- *Tech Effort*: Low to Medium. Need approval from Synoptic Data for free plan (for non-profits), then implementation time
+
+
+
 **Major Feature: "The Feed"**
 
 - *Description*: A continuously-updated visual feed of chronologically-ordered audio recordings and their speech-to-text counterparts, extracted from Forest Net and Admin Net
@@ -32,8 +39,4 @@ Angeles Intel. (short for intelligence) is a new mobile app featuring a live inc
 
 - *Description*: Give authenticated users the ability to add and view notes to individual incidents and post broadcast messages on a central feed. The central feed will show both messages posted directly to it, and mention comments added to an incident. This phase of the feature would NOT be visible to non-authenticated users - we'll see see how it goes and consider creating a separate, siloed version for civilians
 - *Purpose*: To encourage communication whether it be practical, entertaining, or both between responding or interested parties
-<<<<<<< HEAD
 - *Tech Effort*: Medium. As we're posturing this as a bulletin board rather than a live chat, expectations of immediacy should be low. Therefore we should be able to put the data into affordable AWS storage, perhaps even scribble into S3 objects
-=======
-- *Tech Effort*: Medium. As we're posturing this as a bulletin board rather than a live chat, expectations of immediacy should be low. Therefore we should be able to put the data into affordable AWS storage, perhaps even scribble into S3 objects
->>>>>>> 1712b56d604d9ddd95ef86cd8c695f429c463694
