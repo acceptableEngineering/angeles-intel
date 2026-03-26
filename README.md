@@ -4,7 +4,7 @@ Angeles Intel. (short for intelligence) is a new mobile app featuring a live inc
 
 > [!NOTE]
 >
-> This app is currently in open beta, and iOS only. We hope Apple will approve version 1.0 (build 8) soon. Meanwhile, you can access it via TestFlight here: https://testflight.apple.com/join/K69Bmny6
+> This app is currently in open beta, and iOS only. We hope Apple will approve version 1.0 (build 9) soon. Meanwhile, you can access it via TestFlight here: https://testflight.apple.com/join/K69Bmny6
 
 
 
@@ -32,4 +32,8 @@ Angeles Intel. (short for intelligence) is a new mobile app featuring a live inc
 
 - *Description*: Give authenticated users the ability to add and view notes to individual incidents and post broadcast messages on a central feed. The central feed will show both messages posted directly to it, and mention comments added to an incident. This phase of the feature would NOT be visible to non-authenticated users - we'll see see how it goes and consider creating a separate, siloed version for civilians
 - *Purpose*: To encourage communication whether it be practical, entertaining, or both between responding or interested parties
+<<<<<<< HEAD
 - *Tech Effort*: Medium. As we're posturing this as a bulletin board rather than a live chat, expectations of immediacy should be low. Therefore we should be able to put the data into affordable AWS storage, perhaps even scribble into S3 objects
+=======
+- *Tech Effort*: Medium. As we're posturing this as a bulletin board rather than a live chat, expectations of immediacy should be low. Therefore we should be able to put the data into affordable AWS storage, perhaps even scribble into S3 objects
+>>>>>>> 1712b56d604d9ddd95ef86cd8c695f429c463694
