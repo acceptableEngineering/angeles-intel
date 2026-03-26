@@ -1,0 +1,11 @@
+# Secrets
+AngelesIntel/Secrets.plist
+
+# Xcode
+*.xcuserdata
+*.xcworkspace
+build/
+DerivedData/
+
+# macOS
+.DS_Store
